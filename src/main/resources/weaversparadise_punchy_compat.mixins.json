@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "xox.labvorty.weaversparadise.compat.punchy",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "PunchyArmRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
